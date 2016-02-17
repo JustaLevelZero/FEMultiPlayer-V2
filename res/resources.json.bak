@@ -1547,6 +1547,10 @@
 					"frame":	23,
 					"sound":	"spin"
 				},
+				{
+					"frame":	29,
+					"sound":	"sword_swipe4"
+				},
 			]
 		},
 		{
@@ -1561,6 +1565,10 @@
 			"freeze":	0,
 			"hitframes":[3],
 			"soundMap": [
+				{
+					"frame":	2,
+					"sound":	"sword_swipe5"
+				},
 				{
 					"frame":	6,
 					"sound":	"land"
@@ -1681,7 +1689,7 @@
 				},
 				{
 					"frame":	18,
-					"sound":	"clink"
+					"sound":	"sheath"
 				},
 				{
 					"frame":	19,
@@ -1720,11 +1728,23 @@
 				},
 				{
 					"frame":	16,
+					"sound":	"sword_swipe2"
+				},
+				{
+					"frame":	17,
 					"sound":	"hit_normal"
 				},
 				{
 					"frame":	22,
+					"sound":	"sword_swipe4"
+				},
+				{
+					"frame":	23,
 					"sound":	"hit_normal"
+				},
+				{
+					"frame":	28,
+					"sound":	"sword_swipe3"
 				},
 				{
 					"frame":	32,
